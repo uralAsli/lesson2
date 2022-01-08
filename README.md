@@ -53,6 +53,8 @@ https://pokeapi.co/api/v2/pokemon
 
 **State update side effect with use useEffect**
 
+**Trigger child function from parent component using react hooks**
+
 **Lifecycle method vs hooks**
 
 
