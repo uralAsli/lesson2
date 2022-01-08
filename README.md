@@ -15,6 +15,9 @@
 
 **How react works?**
 
+John Resig: The DOM is a Mess
+Reconciliation
+
 **Example without react vs with react --> creat paragraph element**
 
 ## Component Structure
