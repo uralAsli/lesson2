@@ -1,4 +1,4 @@
-# Long But Cool Questions 
+# Lesson2 
 
 <br/>
 
@@ -32,12 +32,30 @@ Split big chunks of code into multiple smaller functions
 
 ## Props
 **Pass data to component**
+
 **render array of objects using map**
+
+**What is Warning: Each child in a list should have a unique "key" prop.**
+
 **Prop types**
 
 ## State
 **Update data dynamic**
+
 **Updating complex state with onChange**
+
+## Conditional Render
+
+## Working with real data
+
+**Install axios**
+https://pokeapi.co/api/v2/pokemon
+
+**State update side effect with use useEffect**
+
+**Lifecycle method vs hooks**
+
+
 
 
 
